@@ -22,10 +22,16 @@ $radians = \frac{degrees \cdot \pi}{180}$
 ![Cartesian Coordinates](images/cartesian-coords.jpeg)
 ![Screen Coordinates](images/screen-coords.jpeg)
 
-##Image Sources
+## Image Sources
+
 [Source for Right angle triangle](https://www.mathsisfun.com/sine-cosine-tangent.html)
 [Source for Unit Circle](https://courses.lumenlearning.com/boundless-algebra/chapter/trigonometric-functions-and-the-unit-circle/)
 [Cartesian and Screen Coordinates](https://inventwithpython.com/invent4thed/chapter12.html)
 
 ## Vector Representation
+
 ![Vectors](images/Vector-Representation.png)
+
+## Tips
+
+**To check a key code:** `console.log(event.keyCode)`; within an event listener

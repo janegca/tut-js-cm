@@ -1,5 +1,9 @@
 /*
-	velocity - based on magnitude (speed) and direction (angle)
+	velocity
+		- a change of position over time
+		- based on magnitude (speed) and direction (angle)
+		- can be represented by a vector
+		- distance per unit of time
 	speed - based on 'distance' and 'time'
 	animation frame is an arbitrary unit of time (frame rate)
 */
